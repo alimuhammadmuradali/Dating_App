@@ -1,0 +1,110 @@
+p_id,name,gender,gender_pref,age_pref,age,career_pref,r_status,food_pref,religion_pref,music_genre_pref,pet_pref,char_pref
+1,Aneeba Naqvi,female,male,24,21,lawyer,single,veg,islam,hip-hop,dog,sj
+2,Zaima Fatima,female,male,24,21,lawyer,married,non-veg,islam,hip-hop,cat,sj
+3,Hamna Fatima,female,male,24,21,lawyer,single,semi-veg,islam,hip-hop,dog,sj
+4,Saman Khan,female,male,24,21,lawyer,married,veg,islam,hip-hop,cat,sj
+5,Syeda Mahnoor Javed,female,male,24,21,lawyer,single,non-veg,islam,classical,dog,sj
+6,Sumrah Khan,female,male,24,21,lawyer,married,semi-veg,islam,classical,cat,sj
+7,Aliya Tharwani,female,male,24,21,lawyer,single,veg,islam,classical,dog,sj
+8,Aymon Habib,female,male,24,21,lawyer,married,non-veg,islam,classical,cat,sj
+9,Sidra Ahmed Khan,female,male,24,21,lawyer,single,semi-veg,islam,classical,dog,sj
+10,Zehra,female,male,24,21,lawyer,married,veg,islam,classical,cat,sj
+11,Sawera,female,male,24,24,lawyer,single,non-veg,islam,classical,dog,sj
+12,Ayesha Imran,female,male,24,24,lawyer,married,semi-veg,islam,classical,cat,sj
+13,Sehar Ali,female,male,28,24,lawyer,single,veg,islam,classical,dog,sj
+14,Syeda Aiman Fatima,female,male,28,24,lawyer,married,non-veg,islam,classical,cat,sj
+15,Sanya,female,male,28,24,lawyer,single,semi-veg,islam,classical,dog,sj
+16,Dania Suhail,female,male,28,24,lawyer,married,veg,islam,jazz,cat,sj
+17,Adeeba Salman Ahmed,female,male,28,24,lawyer,single,non-veg,islam,jazz,dog,sj
+18,Rija farooqi,female,male,28,24,lawyer,married,semi-veg,islam,jazz,cat,sj
+19,Varisha Jabbar Surtee,female,male,28,24,lawyer,single,veg,islam,jazz,dog,sj
+20,Neha Nadeem,female,male,28,24,lawyer,married,non-veg,islam,jazz,none,sj
+21,Aiman,female,male,28,25,Economist,single,semi-veg,islam,country music,cat,sp
+22,Shiza Azam,female,male,28,25,Economist,married,veg,islam,country music,dog,sp
+23,Krinza Momin,female,male,20,25,Economist,single,non-veg,islam,country music,none,sp
+24,Nimra Asif,female,male,20,25,Economist,married,semi-veg,islam,country music,cat,sp
+25,Mina Syed,female,male,20,25,Economist,single,veg,islam,country music,dog,sp
+26,Shamama Shoaib,female,male,20,25,Economist,married,non-veg,islam,country music,none,nt
+27,Bisma Jamal Naqvi,female,male,20,25,Economist,single,semi-veg,islam,country music,cat,nt
+28,Fareeha Sattar Shaikh,female,male,20,25,Economist,married,veg,islam,country music,dog,nt
+29,Nageena Kanwal,female,male,20,25,Economist,single,non-veg,islam,country music,none,nt
+30,Anjiya Saleem Pirani,female,male,20,25,Economist,married,semi-veg,islam,country music,cat,nt
+31,Sammam Sohail,female,male,20,23,policy work,single,veg,islam,country music,dog,nt
+32,Tatheer Fatima,female,male,20,23,policy work,married,non-veg,islam,country music,none,nt
+33,Syeda Jawairiya Kazmi,female,male,20,23,policy work,single,semi-veg,islam,country music,cat,nt
+34,Aneela Arshad,female,male,20,23,policy work,married,veg,islam,country music,dog,nt
+35,Sundar Ali,female,male,20,23,policy work,single,non-veg,islam,country music,none,nt
+36,Zoha Mobin,female,male,20,23,policy work,married,semi-veg,islam,classical,cat,nt
+37,Aman Soofi,female,male,20,23,policy work,single,veg,islam,classical,dog,nt
+38,Muskan Kumari,female,male,20,23,policy work,married,non-veg,islam,classical,none,nt
+39,Nisha Waseem,female,male,20,23,policy work,single,semi-veg,islam,classical,cat,nt
+40,Rimsha Nayyar,female,male,20,23,policy work,married,veg,islam,classical,dog,nt
+41,Nirmal,female,male,20,21,lawyer,single,non-veg,islam,classical,none,nt
+42,Tooba Ejaz Ch,female,male,20,21,lawyer,married,semi-veg,islam,classical,cat,nt
+43,Varishah Mahmood,female,male,24,21,lawyer,single,veg,islam,jazz,dog,nt
+44,Khadija Imran Khan,female,male,24,21,lawyer,married,non-veg,islam,jazz,none,nt
+45,Nawal Junaid,female,male,24,21,lawyer,single,semi-veg,islam,jazz,cat,nt
+46,Fatima Badshahzadi,female,male,24,21,lawyer,married,veg,islam,classical,dog,nt
+47,Zaryab Ansari,female,male,24,21,lawyer,single,non-veg,islam,jazz,none,nt
+48,Fatima Jamal,female,male,24,21,lawyer,married,semi-veg,islam,jazz,cat,nt
+49,Rutba Asghari,female,male,28,21,lawyer,single,veg,islam,jazz,dog,sj
+50,Muhammad Rohaan Khan,male,male,28,27,Banking,married,non-veg,islam,hip-hop,none,sj
+51,Hinesh Kumar,male,female,28,27,Banking,single,semi-veg,islam,hip-hop,cat,sj
+52,Arzaan Ul Mairaj,male,female,28,27,Banking,married,veg,islam,hip-hop,none,sj
+53,Muhammad Ossama Shibli,male,female,28,27,Banking,single,non-veg,islam,hip-hop,cat,sj
+54,Taha Aslam,male,female,28,27,Banking,married,semi-veg,islam,hip-hop,dog,sj
+55,Muhammad Bassam Tariq,male,female,28,27,Banking,single,veg,islam,hip-hop,none,sj
+56,Abdul Samad,male,female,28,27,Banking,married,non-veg,islam,hip-hop,cat,sj
+57,Vinesh Kumar,male,female,28,27,Banking,single,semi-veg,islam,hip-hop,dog,sj
+58,Muhammad Abdullah,male,female,28,27,Banking,married,veg,islam,hip-hop,none,sj
+59,Mustansir Muzaffar,male,female,20,27,Banking,single,non-veg,islam,hip-hop,cat,sj
+60,Muhammad Zain Shakir,male,female,24,22,Corporate Lawyer,married,semi-veg,islam,hip-hop,dog,sj
+61,Mubashir Hayat Maan,male,female,24,22,Corporate Lawyer,single,veg,islam,classical,none,sj
+62,Syed Uzair Ali,male,female,24,22,Corporate Lawyer,married,non-veg,islam,classical,cat,sj
+63,Bilal Ahmer,male,female,24,22,Corporate Lawyer,single,semi-veg,islam,classical,none,sj
+64,Hasnain Somani,male,female,24,22,Corporate Lawyer,married,veg,islam,classical,cat,sj
+65,Syed Muhammad Saad,male,female,24,22,Corporate Lawyer,single,non-veg,islam,classical,dog,sj
+66,Muazz Amir,male,female,28,22,Corporate Lawyer,married,semi-veg,islam,classical,none,sj
+67,Muhammad Ibad Saleem,male,female,28,22,Corporate Lawyer,single,veg,islam,classical,cat,sj
+68,Jawad Shahid,male,female,28,22,Corporate Lawyer,married,non-veg,islam,classical,dog,sj
+69,Humza Rahim,male,female,28,22,Corporate Lawyer,single,semi-veg,islam,classical,none,sj
+70,Musaib Ahmed Razzaqui,male,female,28,22,Lawyer,married,veg,islam,classical,cat,sj
+71,Muhammad Ahmed,male,female,28,22,Lawyer,single,non-veg,islam,classical,dog,sj
+72,Usama,male,female,28,22,Lawyer,married,semi-veg,islam,classical,none,sj
+73,Muhammad Aziz Tahir,male,female,28,22,Lawyer,single,veg,islam,jazz,cat,sj
+74,Zubair Ahmed,male,female,28,22,Lawyer,married,non-veg,islam,jazz,none,sj
+75,Arman,male,female,28,22,Lawyer,single,semi-veg,islam,jazz,cat,sj
+76,Shahzaib Khan,male,female,20,22,Lawyer,married,veg,islam,jazz,dog,sj
+77,Muhammad Shaheer Khan,male,female,24,22,Lawyer,single,non-veg,islam,jazz,none,sj
+78,Zafeerhasnain,male,female,24,22,Lawyer,married,semi-veg,islam,jazz,cat,sj
+79,Ibrahim Ali,male,female,24,22,Lawyer,single,veg,islam,jazz,dog,sj
+80,Shahriyar Ahmed Memon,male,female,24,23,Corporate attorney,married,non-veg,islam,jazz,none,sp
+81,Muhammad Rasan,male,female,24,23,Corporate attorney,single,semi-veg,islam,jazz,cat,sp
+82,Ashmal Anis,male,female,24,23,Corporate attorney,married,veg,islam,country music,dog,sp
+83,Mohib Tariq,male,female,28,23,Corporate attorney,single,non-veg,hinduism,country music,none,sp
+84,Ruhal,male,female,28,23,Corporate attorney,married,semi-veg,hinduism,country music,cat,sp
+85,Muhammad Abdul Rafay Siddiqui,male,female,28,23,Corporate attorney,single,veg,hinduism,country music,none,sp
+86,Om Kumar,male,female,28,23,Corporate attorney,married,non-veg,hinduism,country music,cat,sp
+87,Muhammad Areeb Baig,male,female,28,23,Corporate attorney,single,semi-veg,hinduism,country music,dog,sp
+88,Naveed Hakim,male,female,28,23,Corporate attorney,married,veg,hinduism,country music,none,sp
+89,Syed Hassan Mustafa,male,female,28,23,Corporate attorney,single,non-veg,hinduism,country music,cat,sp
+90,Sumair Salam Memon,male,female,28,24,Lawyer,married,semi-veg,hinduism,country music,dog,sp
+91,Khizir Farrukh,male,female,28,24,Lawyer,single,veg,hinduism,country music,none,sp
+92,Syed Muhammad Murtaza Abidi,male,female,28,24,Lawyer,married,non-veg,hinduism,country music,cat,sp
+93,Ahsan Ullah,male,female,20,24,Lawyer,single,semi-veg,hinduism,country music,dog,sp
+94,Naz,male,female,24,24,Lawyer,married,veg,christianity ,country music,none,sp
+95,Hamza Ayub,male,female,24,24,Lawyer,single,non-veg,christianity ,country music,cat,nt
+96,Muhammad Ahsan Mangi,male,female,24,24,Lawyer,married,semi-veg,christianity ,country music,none,nt
+97,Muhammad Zeshan,male,female,24,24,Lawyer,single,veg,christianity ,country music,cat,nt
+98,Mohammad Ali Bin Rehman,male,female,24,24,Lawyer,married,non-veg,christianity ,country music,dog,nt
+99,Muhammad Subhan Khan,male,female,24,24,Lawyer,single,semi-veg,christianity ,country music,none,nt
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
